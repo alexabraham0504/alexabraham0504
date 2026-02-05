@@ -38,15 +38,12 @@ From **AI-powered analytics** to **blockchain-backed logistics platforms**, I en
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexabraham0504&show_icons=true&theme=dark&hide_border=true" height="170"/>
-</p>
+- 🚀 Consistent contributor across multiple projects
+- 📦 Active development in logistics & web platforms
+- 🧠 Focused on clean architecture & scalable systems
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexabraham0504&theme=dark&hide_border=true" height="170"/>
-</p>
 
 
 ## 🌐 Connect With Me
