@@ -45,6 +45,11 @@ From **AI-powered analytics** to **blockchain-backed logistics platforms**, I en
 - 🧠 Focused on clean architecture & scalable systems
 
 
+![Repos](https://img.shields.io/badge/Repositories-Active-blue)
+![Commits](https://img.shields.io/badge/Commits-Consistent-green)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Web-orange)
+
+
 
 ## 🌐 Connect With Me
 
