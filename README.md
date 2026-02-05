@@ -41,11 +41,13 @@ From **AI-powered analytics** to **blockchain-backed logistics platforms**, I en
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexabraham0504&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexabraham0504&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexabraham0504&show_icons=true&theme=dark&hide_border=true" height="170"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alexabraham0504&theme=dark&hide_border=true" height="170"/>
+</p>
+
 
 ## 🌐 Connect With Me
 
