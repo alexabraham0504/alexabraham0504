@@ -124,7 +124,7 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/alexabraham0504">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexabraham0504&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexabraham0504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/alexabraham0504">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexabraham0504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
@@ -149,10 +149,20 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexabraham0504&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+
+| 🥇 Stat | Value |
+|--------|-------|
+| 🗓️ **Member Since** | Jul 30, 2024 |
+| 🔥 **Total Contributions** | 216+ |
+| 🌊 **Current Streak** | 3 days |
+| ⚡ **Longest Streak** | Aug 11 – Aug 13, 2025 |
+| 💻 **Top Language** | HTML · JavaScript · TypeScript |
+| 🔗 **Blockchain Projects** | Polygon L2, Solidity Smart Contracts |
+| 🤖 **AI Projects** | 8-Agent Generative AI ERP |
+
 </div>
 
 ---
