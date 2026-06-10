@@ -8,6 +8,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alexabraham0504&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://alexabrahamportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/alex-abraham-28b266364">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -36,7 +39,7 @@ class AlexAbraham:
 
         self.stack = [
             "Python", "TypeScript", "Java", "C#",
-            "React", "Next.js", "Node.js", "ASP.NET Core",
+            "React", "Next.js", "Node.js", "ASP.NET Core", "Flutter",
             "MongoDB", "MySQL", "PostgreSQL",
             "Solidity", "Polygon", "Hardhat",
             "TensorFlow", "Scikit-learn", "Gemini AI"
@@ -49,6 +52,7 @@ class AlexAbraham:
         ]
 
         self.fun_fact = "I built a logistics ERP with 8 AI agents 🤖"
+        self.portfolio = "https://alexabrahamportfolio.vercel.app/"
 
     def motto(self):
         return "Build systems that think, scale, and matter. 🚀"
@@ -75,6 +79,7 @@ print(me.motto())
 
 **Frameworks & Libraries**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -169,6 +174,23 @@ print(me.motto())
 
 ## 💼 Work Experience
 
+<details open>
+<summary><b>💼 Net SoftPro Solutions — Junior Software Engineer | April 2026 – Present | Full Time · Remote</b></summary>
+
+> **Tech Stack:**
+> ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+> ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+- Working as a **.NET Full Stack Developer** building robust backend services and APIs using ASP.NET Core.
+- Developing **cross-platform mobile applications** with Flutter for iOS and Android.
+- Handling **frontend development and web design**, crafting responsive and modern UI experiences.
+- Contributing across the full product lifecycle — from design to deployment — in a fast-paced remote environment.
+
+</details>
+
 <details>
 <summary><b>🚀 Supe AI — Generative AI, ML Engineer & Full Stack Developer (Intern) | July 2025 – February 2026 | Remote</b></summary>
 
@@ -245,7 +267,7 @@ print(me.motto())
 <div align="center">
   <i>"Build systems that think, scale, and matter."</i>
   <br/><br/>
-  <b>📍 Kottayam, Kerala, India &nbsp;|&nbsp; 📧 alexputhiyadom@gmail.com &nbsp;|&nbsp; 📱 +91 7034374393</b>
+  <b>📍 Kottayam, Kerala, India &nbsp;|&nbsp; 📧 alexputhiyadom@gmail.com &nbsp;|&nbsp; 📱 +91 7034374393 &nbsp;|&nbsp; 🌐 <a href="https://alexabrahamportfolio.vercel.app/">Portfolio</a></b>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
